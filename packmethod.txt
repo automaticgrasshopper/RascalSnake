@@ -1,0 +1,1 @@
+py -m PyInstaller --onefile --noconsole --add-data "save;save" --add-data "scenes;scenes" --name "Rascal_Snake" main.py

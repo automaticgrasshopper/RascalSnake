@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller build artifacts
+/build/
+/dist/
+
+# Runtime save data / logs
+/save/*.json
+/save/*.txt
+
+# Aggregated code dump (regenerable)
+combined_code.txt
